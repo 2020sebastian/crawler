@@ -5,3 +5,4 @@ This just a basic crawler that crawls a given website 3 levels deep. It will sto
 It collects all the images and creates an .html file containing all the images found.
 
 Usage: go("http://website")
+--
